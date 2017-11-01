@@ -20,5 +20,5 @@ class Solution(object):
                 l[k]+=(s[i])
         return "".join(l)
 
-s = Solution()
-print (s.convert("PAYPALISHIRING",3))
+
+print ("a",5)
